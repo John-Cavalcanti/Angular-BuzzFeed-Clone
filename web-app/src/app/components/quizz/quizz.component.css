@@ -4,7 +4,7 @@
     margin-top: 20px;
 }
 
-.quiz_logo{
+.quizz_logo{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -12,14 +12,14 @@
     margin-bottom: 10px;
 }
 
-.quiz_logo > h3 {
+.quizz_logo > h3 {
     margin-top: 20px;
 }
 
-.quiz_questions{
+.quizz_questions{
     display: flex;
-    flex-direction: center;
     justify-content: center;
+    align-items: center;
     border-radius: 8px;
     background-color: #654ed2;
     width: 100%;
@@ -29,7 +29,7 @@
     margin-bottom: 20px;
 }
 
-.quiz_options{
+.quizz_options{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;

@@ -15,12 +15,12 @@
         *ngFor="let option of questionSelected.options" 
         (click)="playerChoice(option.alias)"
         class="btn-option">
-            {{ option }}
+            {{ option.name }}
         </button>
     </div>
 
     <div *ngIf="finished" class="quizz_results">
-        <h1>O seu resultado eh </h1>
+        <h1>O seu resultado é : </h1>
         <p> {{ answerSelected }} </p>
     </div>
 </div>
