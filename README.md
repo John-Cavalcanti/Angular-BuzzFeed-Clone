@@ -20,6 +20,7 @@ make your choices and the final result is reveals your interior tendencies :
 
 ## How to run
 
+Inside this directory run `cd web-app` to open the front end project directory.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Then run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
