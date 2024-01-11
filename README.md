@@ -14,7 +14,7 @@ I'm going to choose portuguese because i am brazilian, then this is what the hom
 
 ![homepage](./rdmimgs/homepage.png)
 
-Make your choices and the final result is reveals your interior tendencies :
+Make your choices and the final result reveals your interior tendencies :
 
 ![results](./rdmimgs/results.png)
 
