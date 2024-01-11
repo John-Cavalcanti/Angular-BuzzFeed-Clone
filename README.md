@@ -6,15 +6,15 @@ Clone of the BuzzFeed website made in a Angular bootcamp at DIO.
 Are you a Super Hero or a Super Villain, this experimental buzzfeed quizz clone knows.
 It was developed with Angular framework and its fed by a json source with all responses.
 
-Firs select a language :
+First select a language :
 
 ![lang_slct](./rdmimgs/lang_selection.png)
 
-Imma go with portuguese because i am brazilian, then this is what the homepage should look like :
+I'm going to choose portuguese because i am brazilian, then this is what the homepage should look like :
 
 ![homepage](./rdmimgs/homepage.png)
 
-make your choices and the final result is reveals your interior tendencies :
+Make your choices and the final result is reveals your interior tendencies :
 
 ![results](./rdmimgs/results.png)
 
