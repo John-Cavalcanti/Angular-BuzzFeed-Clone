@@ -20,6 +20,8 @@ Make your choices and the final result reveals your interior tendencies :
 
 ## How to run
 
+If you do not have Angular-cli installed follow this tutorial to get it : [Angular-cli](https://angular.io/guide/setup-local)
+
 Inside this directory run `cd web-app` to open the front end project directory.
 
 Then run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
